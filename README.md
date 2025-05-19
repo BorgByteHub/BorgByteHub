@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Varun Gautam<br>🧑‍💻 9th Grade Student | Web Developer | Tech Enthusiast<br>🌐 Building cool stuff at BorgDev<br>💡 HTML, CSS, JavaScript, Python<br>🛡️ Cybersecurity & AI Explorer<br>🏆 IMO Rank 98 | HTML Certified<br>🎨 Also into Graphic Design & Video Editing<br>🎯 Future CSE @ IIT Delhi<br>📫 Reach me: borgbytehub@gmail.com
+👋 Hi, I'm Varun Gautam<br>🧑‍💻 9th Grade Student | Web Developer | Tech Enthusiast<br>🌐 Building cool stuff at BorgDev<br>💡 HTML, CSS, JavaScript, Python<br>🛡️ Cybersecurity & AI Explorer<br>🏆 national Math Olympiad Rank 98 | HTML Certified<br>🎨 Also into Graphic Design & Video Editing<br>🎯 Future CSE @ IIT Delhi<br>📫 Reach me: borgbytehub@gmail.com
 
 
 ## 🌐 Socials:
